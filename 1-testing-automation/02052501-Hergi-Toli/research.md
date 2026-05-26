@@ -28,6 +28,26 @@ Test automation means using tools to run software tests automatically instead of
 
 AI can also help developers during debugging. Debugging is the process of finding and fixing errors in software. AI tools can explain error messages, suggest possible causes, and recommend possible solutions. This can help developers understand problems faster. However, AI suggestions should always be checked because they can sometimes be wrong or incomplete.
 
+&#x20;
+
+
+
+\## AI in Continuous Integration and Automation
+
+
+
+AI can also support automation in Continuous Integration and Continuous Delivery, also known as CI/CD. In software engineering, CI/CD pipelines help teams build, test, and deliver software more automatically. This is useful because developers can find problems earlier instead of waiting until the end of the project.
+
+
+
+AI can help by suggesting tests, identifying repeated failures, and giving faster feedback when something breaks. For example, if a build fails many times because of the same type of error, AI tools may help developers understand the possible cause more quickly.
+
+
+
+However, automation must still be monitored. If a team trusts automated systems without checking the results, they may miss important bugs or security problems. This means AI and automation can improve speed, but software engineers still need to control the process and verify the final result.
+
+
+
 
 
 \## Human Supervision
