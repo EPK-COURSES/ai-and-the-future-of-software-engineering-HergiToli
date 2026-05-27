@@ -20,7 +20,9 @@ This topic is important because software quality depends not only on writing cod
 
 Test automation means using tools to run software tests automatically instead of doing every test manually. This can save time, especially when the same tests need to be repeated many times during a project. However, test automation does not mean that every test should be automated. Tests must be selected carefully, designed correctly, and maintained over time. Fewster and Graham explain that automated testing can be useful, but the decision about what to automate is still important. \[1]
 
-Research about automated testing shows that automation is useful, but teams still need to learn from practical experience and maintain their tests carefully over time. \[6]
+Research about automated testing shows that automation is useful, but teams still need to learn from practical experience and maintain their tests carefully over time. \[6]Software testing is important because it helps verify that software works correctly and meets expected requirements. \[9]
+
+
 
 
 
@@ -47,6 +49,10 @@ AI can help by suggesting tests, identifying repeated failures, and giving faste
 
 
 However, automation must still be monitored. If a team trusts automated systems without checking the results, they may miss important bugs or security problems. This means AI and automation can improve speed, but software engineers still need to control the process and verify the final result.
+
+
+
+CI/CD is important because it helps teams test and deliver software more frequently and with fewer manual steps. \[7]\[8]
 
 
 

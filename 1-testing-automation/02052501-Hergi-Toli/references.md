@@ -32,3 +32,27 @@ https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/unleashing-develo
 
 \[6] Berner, S., Weber, R., \& Keller, R. K. (2005). Observations and lessons learned from automated testing. Proceedings of the 27th International Conference on Software Engineering.
 
+
+
+\[7] Microsoft. “What is DevOps?”  
+
+https://learn.microsoft.com/en-us/devops/what-is-devops
+
+
+
+\[8] Atlassian. “Continuous integration vs. delivery vs. deployment.”  
+
+https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment
+
+
+
+\[9] IBM. “What is software testing?”  
+
+https://www.ibm.com/topics/software-testing
+
+
+
+\[10] IBM. “What is artificial intelligence?”  
+
+https://www.ibm.com/topics/artificial-intelligence
+
