@@ -28,3 +28,7 @@ https://survey.stackoverflow.co/2025/ai
 
 https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/unleashing-developer-productivity-with-generative-ai
 
+
+
+\[6] Berner, S., Weber, R., \& Keller, R. K. (2005). Observations and lessons learned from automated testing. Proceedings of the 27th International Conference on Software Engineering.
+
