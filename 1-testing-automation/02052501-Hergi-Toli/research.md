@@ -58,6 +58,26 @@ AI can support testing, debugging, and automation, but it should not replace hum
 
 
 
+\## Risks of AI-Generated Tests
+
+
+
+AI-generated tests can be helpful, but they also have risks. One risk is that the test may look correct but may not actually check the most important parts of the program. For example, AI may generate simple tests that only check normal inputs, but it may miss edge cases, invalid data, or security problems.
+
+
+
+Another risk is that developers may trust AI too much. If a developer accepts an AI-generated test without understanding it, the software may still contain hidden bugs. This is why software engineers should review every AI-generated test and make sure it matches the real requirements of the project.
+
+
+
+In my opinion, AI can make testing faster, but it cannot fully replace human judgment. A good software engineer still needs to understand what the software should do and what problems might happen.
+
+
+
+
+
+
+
 \## Conclusion
 
 
